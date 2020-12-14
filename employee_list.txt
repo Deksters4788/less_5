@@ -1,0 +1,6 @@
+Petrov 80000
+Sidorov 18000
+Sudarev 15000
+Sedov 36000
+Nikolayev 43000
+Enbaev 29000
